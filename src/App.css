@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.class{
+  display:block;
+  width:100vw;
+}
