@@ -1,0 +1,25 @@
+.WallPapper{
+    margin-top:-20%;
+    position:absolute;
+    text-align: center;
+}
+a {
+    color: #6b7280; /* Grey-Blue Color */
+    text-decoration: none; /* Remove underline */
+    transition: color 0.3s ease; /* Smooth transition for hover effect */
+  }
+  
+  /* Hover effect */
+  a:hover {
+    color: #4b5563; /* Darker grey-blue on hover */
+  }
+  
+  /* Visited links */
+  a:visited {
+    color: #6b7280; /* Same grey-blue color for visited links */
+  }
+  
+  /* Active links (when clicked) */
+  a:active {
+    color: #6b7280; /* Maintain the grey-blue color when clicked */
+  }

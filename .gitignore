@@ -8,17 +8,10 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-src/Navigation
 
-eslint.config.js
-package-lock.json
-package.json
-tsconfig.app.json
-tsconfig.json
-tsconfig.node.json
-vite.config.ts
+
 README.md
-index.html
+
 dist
 dist-ssr
 *.local
